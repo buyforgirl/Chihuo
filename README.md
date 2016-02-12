@@ -1,2 +1,2 @@
-# laiproject
-Laioffer Intern Project
+# Chihuo 
+Android Mobile App: Personalized Restaurant Recommendation 
