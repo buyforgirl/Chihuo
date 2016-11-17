@@ -1,2 +1,2 @@
 # Chihuo 
-Android Mobile App: Personalized Restaurant Recommendation 
+Personalized Restaurant Recommendation System to improve the Yelp Recommendation
